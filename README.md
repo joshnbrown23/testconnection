@@ -1,12 +1,21 @@
 To Install check connect
 
+need to be root to run the commands below use the following to gain root access
+
 sudo -s
 
-cd /tmp
+We now need to change directorys so enter:
+cd
 
 To get the script file downloaded onto your node just use this command:
 
 wget https://raw.githubusercontent.com/joshnbrown23/testconnection/refs/heads/main/check_connect.sh
+
+We need to make the file executable now
+chmod +x check_connect.sh
+
+Now run the install
+./check_connect.sh
 
 Once the file has been downloaded we need to make a few customizations. For example we need to edit in your node number and the target node number you want to stay connected to. You can so that by using the following command:
 
