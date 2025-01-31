@@ -42,3 +42,8 @@ Once in the crontab you can enter this line and then next available space in the
 */10 * * * * /etc/asterisk/local/check_connection.sh
 ```
 Once it is entered you can hit CTL + X then Y to save and enter exit.
+
+Now lets check and make sure everything is working. Run the follwoing command
+```
+/etc/asterisk/local/check_connect.sh
+```
