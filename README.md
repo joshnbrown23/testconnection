@@ -25,7 +25,7 @@ Now run the install
 ```
 Once the file has been downloaded we need to make a few customizations. For example we need to edit in your node number and the target node number you want to stay connected to. You can so that by using the following command:
 ```
-sudo nano check_connection.sh
+sudo nano /etc/asterisk/local/check_connect.sh
 ```
 Remove the X's on the line that starts with "MY_NODE" and replace them with your node number. Then remove the X's on the line beginning with TARGET_NODE and replace them with the node number you wish to stay connected to.
 Then save the file (if you are using nano then hit CTL + X and then Y to save and enter to exit).
