@@ -4,7 +4,7 @@ need to be root to run the commands below use the following to gain root access
 
 sudo -s
 
-We now need to change directorys so enter:
+We now need to change directorys so enter
 cd
 
 To get the script file downloaded onto your node just use this command:
