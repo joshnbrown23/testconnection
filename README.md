@@ -10,7 +10,7 @@ cd
 
 To get the script file downloaded onto your node just use this command:
 
-wget https://raw.githubusercontent.com/joshnbrown23/testconnection/refs/heads/main/check_connect.sh
+wget https://raw.githubusercontent.com/joshnbrown23/testconnection/refs/heads/main/check_connect.sh    
 
 We need to make the file executable now
 chmod +x check_connect.sh
