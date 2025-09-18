@@ -15,15 +15,13 @@ sudo -s
 
 We now need to change directorys so enter:
 ```
-cd
+cd /tmp
 ```
+This will place the files into the /tmp folder, on reboot these files will be deleted since they will no longer be needed.
+
 To get the script file downloaded onto your node use this command:
 ```
 sudo wget -O /tmp/check_connect.sh https://raw.githubusercontent.com/joshnbrown23/testconnection/refs/heads/main/check_connect.sh
-```
-Lets change to the /tmp directory to finish the steps. 
-```
-cd /tmp
 ```
 
 We need to make the file executable now
