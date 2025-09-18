@@ -1,3 +1,7 @@
+# This is a script that runs to make sure you are always connected to the hub you have set. It will run at what ever time you choose and check if you are connect, if you are not it will auto connect you back.
+
+**IMPORTANT REMINDER - Make sure this is something you really want to do, if you change hubs often or move around a lot i would suggest NOT setting this up. You could create a bridge between hubs which is frowned upon on most networks. Use at your own risk!!**
+
 THIS INSTALL WORKS FOR BOTH ASL3 AS WELL AS HAMVOIP
 
 
